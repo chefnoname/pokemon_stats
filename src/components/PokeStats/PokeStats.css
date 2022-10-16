@@ -1,0 +1,167 @@
+.normal {
+  background: #b5bdc8;
+
+  background: linear-gradient(to bottom, #b5bdc8 0%, #828c95 36%, #28343b 100%);
+}
+
+.water {
+  background: #1e5799;
+
+  background: linear-gradient(
+    to bottom,
+    #1e5799 0%,
+    #2989d8 50%,
+    #207cca 51%,
+    #7db9e8 100%
+  );
+}
+
+.grass {
+  background: #a4b357;
+
+  background: linear-gradient(to bottom, #a4b357 0%, #75890c 100%);
+}
+
+.fire {
+  background: #cc0000;
+
+  background: linear-gradient(to bottom, #cc0000 0%, #cc0000 100%);
+}
+
+.bug {
+  background: #d2ff52;
+
+  background: linear-gradient(to bottom, #d2ff52 0%, #91e842 100%);
+}
+
+.flying {
+  background-color: #49d3d8;
+}
+
+.fighting {
+  background: #a7cfdf;
+
+  background: linear-gradient(to bottom, #a7cfdf 0%, #23538a 100%);
+}
+
+.poison {
+  background: #cb60b3;
+
+  background: linear-gradient(to bottom, #cb60b3 0%, #ad1283 52%, #de47ac 100%);
+}
+
+.ghost {
+  background: rgb(76, 76, 76);
+
+  background: linear-gradient(
+    to bottom,
+    rgba(76, 76, 76, 1) 0%,
+    rgba(89, 89, 89, 1) 12%,
+    rgba(102, 102, 102, 1) 25%,
+    rgba(71, 71, 71, 1) 39%,
+    rgba(44, 44, 44, 1) 50%,
+    rgba(0, 0, 0, 1) 51%,
+    rgba(17, 17, 17, 1) 60%,
+    rgba(43, 43, 43, 1) 76%,
+    rgba(28, 28, 28, 1) 91%,
+    rgba(19, 19, 19, 1) 100%
+  );
+}
+
+.electric {
+  background: #fceabb;
+
+  background: linear-gradient(
+    to bottom,
+    #fceabb 0%,
+    #fccd4d 50%,
+    #f8b500 51%,
+    #fbdf93 100%
+  );
+}
+
+.ground {
+  background: #606c88;
+
+  background: linear-gradient(to bottom, #606c88 0%, #3f4c6b 100%);
+}
+
+.rock {
+  background: #f0b7a1;
+
+  background: linear-gradient(
+    to bottom,
+    #f0b7a1 0%,
+    #8c3310 50%,
+    #752201 51%,
+    #bf6e4e 100%
+  );
+}
+
+.ice {
+  background: rgb(135, 224, 253);
+
+  background: linear-gradient(
+    to bottom,
+    rgba(135, 224, 253, 1) 0%,
+    rgba(83, 203, 241, 1) 40%,
+    rgba(5, 171, 224, 1) 100%
+  );
+}
+
+.dragon {
+  background: rgb(254, 204, 177);
+
+  background: linear-gradient(
+    to bottom,
+    rgba(254, 204, 177, 1) 0%,
+    rgba(241, 116, 50, 1) 50%,
+    rgba(234, 85, 7, 1) 51%,
+    rgba(251, 149, 94, 1) 100%
+  );
+}
+
+.dark {
+  background: rgb(251, 131, 250);
+
+  background: linear-gradient(
+    to bottom,
+    rgba(251, 131, 250, 1) 0%,
+    rgba(233, 60, 236, 1) 100%
+  );
+}
+
+.fairy {
+  background: #febbbb;
+
+  background: linear-gradient(to bottom, #febbbb 0%, #fe9090 45%, #ff5c5c 100%);
+}
+
+.unknown {
+  background: rgb(235, 233, 249);
+
+  background: linear-gradient(
+    to bottom,
+    rgba(235, 233, 249, 1) 0%,
+    rgba(216, 208, 239, 1) 50%,
+    rgba(206, 199, 236, 1) 51%,
+    rgba(193, 191, 234, 1) 100%
+  );
+}
+
+.shadow {
+  background: rgb(248, 255, 232);
+
+  background: linear-gradient(
+    to bottom,
+    rgba(248, 255, 232, 1) 0%,
+    rgba(227, 245, 171, 1) 33%,
+    rgba(183, 223, 45, 1) 100%
+  );
+}
+
+.psychic {
+  background: #a90329;
+
+  background: linear-gradient(to bottom, #a90329 0%, #8f0222 44%, #6d0019 100%);
+}
